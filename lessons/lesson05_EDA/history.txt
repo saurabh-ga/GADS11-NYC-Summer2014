@@ -1,0 +1,7 @@
+    1  /Users/Saurabh/Documents/ML_for_Hackers-master_new/03-Classification/data/easy_ham/00005.bf27cdeaf0b8c4647ecd61b1d09da613 ; exit;
+    2  cd GADS11-NYC-Summer2014/
+    3  cd lessons/
+    4  cd lesson05_EDA/
+    5  ls -ltr
+    6  ipython
+    7  history > history.txt

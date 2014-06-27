@@ -1,0 +1,159 @@
+    1  ls -ltr
+    2  more output.txt 
+    3  s -ltr
+    4  ls -ltr
+    5  pwd
+    6  ls -ltr
+    7  ls -ltr
+    8  more output.txt 
+    9  rm output.txt 
+   10  more output.txt 
+   11  more output.txt 
+   12  more output.txt ls -ltr
+   13  ls -ltr
+   14  ls -ltr
+   15  ls -ltr
+   16  cd /Library/Frameworks/R.framework/Versions/3.1/Resources/library/
+   17  ls -ltr
+   18  cd ..
+   19  pwd
+   20  find iris
+   21  find . iris
+   22  find . iris | more
+   23  pwd
+   24  cd library/
+   25  ls -ltr
+   26  dir
+   27  Dir
+   28  ls -ltr
+   29  cd
+   30  pwd
+   31  ls -ltr
+   32  cd Library/Frameworks/R.framework/Versions/3.1/Resources/library/
+   33  cd /Library/Frameworks/R.framework/Versions/3.1/Resources/library
+   34  ls -ltr
+   35  cd rstudio/
+   36  ls -ltr
+   37  more Desc
+   38  more DESCRIPTION 
+   39  pwd
+   40  cd
+   41  ls -ltr
+   42  more iris.csv 
+   43  ls -ltr
+   44  java
+   45  java
+   46  java -version
+   47  which java
+   48  cd /usr/bin/java
+   49  cd /usr/bin/
+   50  ls -ltr
+   51  ls -ltr *java*
+   52  which java
+   53  cd /Library/Frameworks/R.framework/Versions/3.1/Resources/library
+   54  ls -ltr learningr/
+   55  cd learningr/
+   56  cd extdata/
+   57  ls -ltr 
+   58  more crabtag.sqlite 
+   59  pwd
+   60  cd
+   61  mkdir tp
+   62  cd  tp
+   63  curl yahoo.com
+   64  curl http://nycdatascience.com/slides/RBeginner/part3_long/
+   65  curl http://nycdatascience.com/slides/RBeginner/part3
+   66  pwd
+   67  ls
+   68  python
+   69  pwd
+   70  cd
+   71  pwd
+   72  brew
+   73  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+   74  curl -fsSL https://raw.github.com/mxcl/homebrew/go)
+   75  curl -fsSL https://raw.github.com/mxcl/homebrew/go
+   76  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+   77  git
+   78  pwd
+   79  alias apython="~/anaconda/bin/python"
+   80  pwd
+   81  python
+   82  apython
+   83  ipython
+   84  alias ipython="~/anaconda/bin/ipython"
+   85  ipython
+   86  alias conda="~/anaconda/bin/conda"
+   87  conda install -c https://conda.binstar.org/public ggplot
+   88  git config --global user.name "saurabh"
+   89  git config --global user.email sagrawal_3@yahoo.com
+   90  pwd
+   91  ls -ltr
+   92  ls -ltr
+   93  cd ~/; git clone git@github.com:<your github username>/GADS11-NYC-Summer2014.git
+   94  cd ~/; git clone git@github.com:saurabh-ga/GADS11-NYC-Summer2014.git
+   95  cd ~/; git clone git@github.com:patwmcnamara/GADS11-NYC-Summer2014.git
+   96  cd ~/; git clone git@github.com:saurabh-ga/patwmcnamara/GADS11-NYC-Summer2014.git
+   97  git config --global user.name "saurabh-ga"
+   98  cd ~/; git clone git@github.com:saurabh-ga/patwmcnamara/GADS11-NYC-Summer2014.git
+   99  cd ~/; git clone git@github.com:saurabh-gaGADS11-NYC-Summer2014.git
+  100  cd ~/; git clone git@github.com:patwmcnamara/GADS11-NYC-Summer2014.git
+  101  pwd
+  102  git init tp
+  103  cd tp/
+  104  cd tp/
+  105  ls -ltr
+  106  pwd
+  107  cd ..
+  108  ls -ltr
+  109  cd tp
+  110  vi file1.txt
+  111  ls -ltr
+  112  git status
+  113  git add file1.txt 
+  114  git status
+  115  commit -m "first committ"
+  116  git commit -m "first committ"
+  117  git status
+  118  ls -ltr
+  119  git remote origin https://github.com/saurabh-ga/test.git
+  120  cd ..
+  121  pwd
+  122  history 
+  123  cd ~/; git clone git@github.com:patwmcnamara/GADS11-NYC-Summer2014.git
+  124  cd ~/; git clone https://github.com/patwmcnamara/GADS11-NYC-Summer2014.git
+  125  git status
+  126  ll
+  127  ls
+  128  pwd
+  129  cd GADS11-NYC-Summer2014/
+  130  ll
+  131  git remote -v
+  132  cd ../
+  133  ll
+  134  ls
+  135  rm -rf GADS11-NYC-Summer2014/
+  136  ls
+  137  ls
+  138  git clone https://github.com/saurabh-ga/GADS11-NYC-Summer2014.git
+  139  cd GADS11-NYC-Summer2014/
+  140  git remote -v
+  141  git remote add root https://github.com/patwmcnamara/GADS11-NYC-Summer2014.git
+  142  git remote -v
+  143  ls lessons/
+  144  git branch
+  145  git pull root master
+  146  ls lessons/
+  147  git branch
+  148  git branch
+  149  git branch -a
+  150  git status
+  151  git push origin master
+  152  pwd
+  153  cd lessons/
+  154  cd lesson05_EDA/
+  155  ls -ltr
+  156  ipython notebook
+  157  pwd
+  158  hisory > history2.txt
+  159  history > history2.txt
